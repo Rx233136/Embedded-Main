@@ -29,7 +29,7 @@ cat ~/.ssh/id_ed25519.pub
 ### 1.3 克隆仓库
 
 ```bash
-git clone ssh://Administrator@192.168.21.1/D:/GitRepos/lab-materials.git
+git clone ssh://Administrator@192.168.1.114/D:/GitRepos/lab-materials.git
 cd lab-materials
 ```
 
