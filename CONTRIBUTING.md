@@ -74,6 +74,10 @@ git commit -m "docs: 新增 STM32 定时器中断详解"
 
 # Step 7: 推送到远程
 git push origin main
+
+#若仓库上的 main 分支比你本地的新（别人提交了代码 / 你在别的电脑提交了）运行下面的命令即可
+git pull --rebase origin main
+git push origin main
 ```
 
 ### 如果直接 push 会怎样？
