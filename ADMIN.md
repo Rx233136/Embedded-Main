@@ -8,7 +8,7 @@
 
 | 项目 | 内容 |
 |------|------|
-| 地址 | https://github.com/dev-change/Embedded-Materials |
+| 地址 | https://github.com/dev-change/Embedded-Main |
 | 类型 | Public |
 | 提交方式 | Fork + Pull Request |
 
@@ -118,4 +118,4 @@ git remote prune origin
 
 ---
 
-*最后更新：2026-05-09*
+*最后更新：2026-05-10*
