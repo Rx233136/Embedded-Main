@@ -33,7 +33,6 @@
 | 📝 八股面经 | `docs/interview/` | 嵌入式/Linux/数据结构/操作系统等面试题 |
 | 🔧 单片机项目 | `projects/mcu/` | STM32/电赛项目等源码与说明 |
 | 🐧 Linux 项目 | `projects/linux/` | Linux 驱动/应用/网络编程项目 |
-| 📚 学习资料 | `learning/` | 教程笔记、视频配套资料 |
 | 🏫 学校课程 | `courses/` | 课程作业、实验报告、复习资料 |
 
 ---
@@ -53,8 +52,6 @@ LAB-MATERIALS/
 ├── projects/                 # 项目源码与资料
 │   ├── mcu/                  # 单片机项目
 │   └── linux/                # Linux 项目
-│
-├── learning/                 # 学习资料与笔记
 │
 ├── courses/                  # 学校课程资料
 │
